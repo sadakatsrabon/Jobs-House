@@ -1,0 +1,72 @@
+[
+    {
+        "id":"0031",
+        "name":"Google",
+        "logo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Mountain View, California"
+    },
+    {
+        "id":"0032",
+        
+        "logo": "https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo-2013-2015.png",
+        "name": "YouTube",
+        "jobTitle": "Technical Database Engineer",
+        "location": "San Bruno, California"
+    },
+    {"id":"0033",
+        "logo": "https://www.facebook.com/images/fb_icon_325x325.png",
+        "name": "Facebook",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Menlo Park, California"
+    },
+    {
+        "id":"0037",
+        "logo": "https://www.amazon.com/favicon.ico",
+        "name": "Amazon Prime",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Seattle, Washington"
+    },
+    {
+        "id":"0034",
+        "logo": "https://th.bing.com/th/id/OIP.YdkQGmhB9c2Sr84FeDD9egHaEK?pid=ImgDet&rs=1",
+        "name": "Amazon",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Seattle, Washington"
+    },
+    {
+        "id":"0035",
+        "logo": "https://th.bing.com/th/id/OIP.ml3217w3AI3Z4tT-2di6XgHaCu?pid=ImgDet&rs=1",
+        "name": "Microsoft",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Redmond, Washington"
+    },
+    {
+        "id":"0036",
+        "logo": "https://th.bing.com/th/id/OIP.cCkt-lMjHsMIqfVx8xeg9gHaKe?pid=ImgDet&w=2000&h=2828&rs=1",
+        "name": "Apple",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Cupertino, California"
+    },
+    {
+        "id":"0038",
+        "logo": "https://th.bing.com/th/id/R.3dff7426e99d03a596b33bc514a7a709?rik=FbZIZJ3Ewbjw%2bw&pid=ImgRaw&r=0",
+        "name": "LinkedIn",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Sunnyvale, California"
+    },
+    {
+        "id":"0039",
+        "logo": "https://twitter.com/favicon.ico",
+        "name": "Twitter",
+        "jobTitle": "Technical Database Engineer",
+        "location": "San Francisco, California"
+    },
+    {
+        "id":"0040",
+        "logo": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png",
+        "name": "Instagram",
+        "jobTitle": "Technical Database Engineer",
+        "location": "Menlo Park, California"
+    }
+]
