@@ -3,7 +3,7 @@ import { Link, NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className='flex justify-around mt-4'>
+        <div className='flex justify-around mt-4 '>
             <h2><Link title='Home Page' className='text-2xl font-bold ' to="/">JobsHouse</Link></h2>
             <div className='space-x-8 hidden md:flex'>
                 <NavLink title='Here you can see the grph chart of assignment marks which is gained by sadakat hossain srabon (1-7)' className={({ isActive }) => (isActive ? 'text-blue-400' : '')} to="/statics">Statics</NavLink>

@@ -1,72 +1,148 @@
 [
     {
         "id":"0031",
+        "salary":"10k-15k",
         "name":"Google",
         "logo": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
         "jobTitle": "Technical Database Engineer",
-        "location": "Mountain View, California"
+        "location": "Mountain View, California",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0032",
-        
+        "salary":"10k-15k",
         "logo": "https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo-2013-2015.png",
         "name": "YouTube",
         "jobTitle": "Technical Database Engineer",
-        "location": "San Bruno, California"
+        "location": "San Bruno, California",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {"id":"0033",
+    "salary":"10k-15k",
         "logo": "https://www.facebook.com/images/fb_icon_325x325.png",
         "name": "Facebook",
         "jobTitle": "Technical Database Engineer",
-        "location": "Menlo Park, California"
+        "location": "Menlo Park, California",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0037",
+        "salary":"10k-15k",
         "logo": "https://www.amazon.com/favicon.ico",
         "name": "Amazon Prime",
         "jobTitle": "Technical Database Engineer",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0034",
+        "salary":"10k-15k",
         "logo": "https://th.bing.com/th/id/OIP.YdkQGmhB9c2Sr84FeDD9egHaEK?pid=ImgDet&rs=1",
         "name": "Amazon",
         "jobTitle": "Technical Database Engineer",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0035",
+        "salary":"10k-15k",
         "logo": "https://th.bing.com/th/id/OIP.ml3217w3AI3Z4tT-2di6XgHaCu?pid=ImgDet&rs=1",
         "name": "Microsoft",
         "jobTitle": "Technical Database Engineer",
-        "location": "Redmond, Washington"
+        "location": "Redmond, Washington",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0036",
+        "salary":"10k-15k",
         "logo": "https://th.bing.com/th/id/OIP.cCkt-lMjHsMIqfVx8xeg9gHaKe?pid=ImgDet&w=2000&h=2828&rs=1",
         "name": "Apple",
         "jobTitle": "Technical Database Engineer",
-        "location": "Cupertino, California"
+        "location": "Cupertino, California",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0038",
+        "salary":"10k-15k",
         "logo": "https://th.bing.com/th/id/R.3dff7426e99d03a596b33bc514a7a709?rik=FbZIZJ3Ewbjw%2bw&pid=ImgRaw&r=0",
         "name": "LinkedIn",
         "jobTitle": "Technical Database Engineer",
-        "location": "Sunnyvale, California"
+        "location": "Sunnyvale, California",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0039",
-        "logo": "https://twitter.com/favicon.ico",
+        "salary":"10k-15k",
+        "logo": "https://th.bing.com/th/id/R.fd48dca3a3d60a01ff5097cf5ed3da7c?rik=UTQlxf7uo9mzHA&pid=ImgRaw&r=0",
         "name": "Twitter",
         "jobTitle": "Technical Database Engineer",
-        "location": "San Francisco, California"
+        "location": "San Francisco, California",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     },
+
+
     {
         "id":"0040",
+        "salary":"10k-15k",
         "logo": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png",
         "name": "Instagram",
         "jobTitle": "Technical Database Engineer",
-        "location": "Menlo Park, California"
+        "location": "Menlo Park, California",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+       
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements":"Bachelor degree to complete any reputational university.",
+        "experience": "2-3 year in this field"
     }
 ]
