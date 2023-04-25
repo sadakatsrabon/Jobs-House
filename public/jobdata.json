@@ -1,23 +1,27 @@
 [
   {
+    "id":"011",
     "logo":"/images/Logo/accounts 1.png",
     "category":"Account and Finance",
     "avilableJobs":"500+ job avilable"
   },
 
   {
+    "id":"012",
     "logo":"/images/Logo/business 1.png",
     "category":"creative Design",
     "avilableJobs":"1m+ job avilable"
   },
 
   {
+    "id":"013",
     "logo":"/images/Logo/chip 1.png",
     "category":"Marketing and Sales",
     "avilableJobs":"2m(around) job avilable"
   },
 
   {
+    "id":"014",
     "logo":"/images/Logo/social-media 1.png",
     "category":"Engineering Job",
     "avilableJobs":"Around 1B job avilable"
