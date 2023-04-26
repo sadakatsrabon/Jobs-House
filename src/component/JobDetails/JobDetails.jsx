@@ -1,12 +1,22 @@
-import React from 'react';
-import { useLoaderData } from 'react-router-dom';
+/* eslint-disable no-unused-vars */
+import React, { useEffect, useState } from 'react';
+import { useLoaderData, useParams } from 'react-router-dom';
 
 const JobDetails = () => {
-    const details = useLoaderData();
+    const {id} = useParams();
+    const allData = useLoaderData()
+    const [details , setDetails] = useState();
+    useEffect(()=>{
+        if(allData.length){
+            const details = allData.find(d=>d.id === id)
+            setDetails(details)
+        }
+    }, [allData])
     console.log(details);
     return (
         <div>
-            <h2>Detail is here what you want to see.</h2>
+            <img src={details?.logo} alt="" />
+            {details?.salary}
         </div>
     );
 };
