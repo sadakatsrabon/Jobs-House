@@ -10,7 +10,7 @@ const Home = () => {
         // console.log(jobData)
     })
 
-    const companies = useLoaderData()
+    const companies = useLoaderData();
 
     // console.log(companies);
     return (
@@ -63,11 +63,11 @@ const Home = () => {
                                     <p className='mr-2'>{company.location}</p>
                                     <p className='mb-2'>Salary:{company.salary}</p>
                                 </div>
-                                <Link to={`jobdetails/${company.id}`}><button className='bg-sky-600 w-32 h-7 rounded-md'>Job Details</button></Link>
+                                <Link to={`jobdetails/${company.id}`}><button  className='bg-sky-600 w-32 h-7 rounded-md'>Job Details</button></Link>
                             </div>)}
                     </div>
                     <div className='text-center'>
-                        <button className='bg-slate-500 w-32 h-10 rounded-md'>All Jobs</button>
+                        <button  className='bg-slate-500 w-32 h-10 rounded-md'>All Jobs</button>
                     </div>
                 </div>
             </div>
