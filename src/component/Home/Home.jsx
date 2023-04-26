@@ -1,10 +1,19 @@
 import React, { useEffect, useState } from 'react';
 import JobCart from '../JobCart/JobCart';
 import { useLoaderData } from 'react-router-dom';
+import { BeakerIcon } from '@heroicons/react/24/solid'
 
 const Home = () => {
 // console.log(props);
     const jobData = useLoaderData();
+    const [showAll, setShowAll] = useState(false);
+    const [jobCartsToShow, setJobCartsToShow] = useState(jobData.slice(0, 4));
+    
+
+    const toggleShowAll = () => {
+        setShowAll(!showAll);
+        setJobCartsToShow(showAll ? jobData : jobData.slice(0, 4));
+    }
     // console.log(jobData);
 
     return (
@@ -46,10 +55,10 @@ const Home = () => {
                     <h2 className='text-center text-4xl font-semibold mb-2'>Featured Jobs</h2>
                     <p className='text-center mb-10'><small>Explore thousands of job opportunities with all the   you need. Its your future</small></p>
 
-                    <JobCart jobData={jobData}></JobCart>
+                    <JobCart jobData={jobCartsToShow}></JobCart>
 
                     <div className='text-center'>
-                        <button  className='bg-slate-500 w-32 h-10 rounded-md'>All Jobs</button>
+                        <button onClick={toggleShowAll}  className='bg-slate-500 w-32 h-10 rounded-md'>All Jobs</button>
                     </div>
                 </div>
             </div>

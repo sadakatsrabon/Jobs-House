@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLoaderData } from 'react-router-dom';
 
 const JobCart = () => {
     // console.log(jobData)
@@ -12,6 +12,7 @@ const JobCart = () => {
             .then(data =>setCompanies(data))
             // console.log(companies);
     })
+    
     return (
         <div>z
             <div className='grid sm:grid-cols-1 md:grid-cols-2 '>

@@ -12,6 +12,7 @@ import AppliedJob from './component/AppliedJob/AppliedJob';
 import Statics from './component/Statics/Statics';
 import Blog from './component/Blog/Blog';
 import Errors from './component/Errors/Errors';
+import JobCart from './component/JobCart/JobCart';
 
 const router = createBrowserRouter ([
   {
@@ -42,6 +43,10 @@ const router = createBrowserRouter ([
         element:<JobDetails></JobDetails>,
         loader: ({params})=> fetch(`./data.json`)
       },
+      {
+        path: 'jobcart',
+        element: <JobCart></JobCart>
+      }
 
     ]
   }
