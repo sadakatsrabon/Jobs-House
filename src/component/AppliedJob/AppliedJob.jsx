@@ -10,11 +10,11 @@ const AppliedJob = () => {
         console.log(companies);
     })
     return (
-        <div className=''>
-            <div className='h-20 '>
+        <div className=' mt-10'>
+            <div className=''>
                 {companies.map(company =>
-                    <div key={company.id} className=' flex'>
-                        <div className=' border-solid border-inherit border p-8 mb-5 ml-6 flex w-3/4'>
+                    <div key={company.id} className=' flex h-44'>
+                        <div className='rounded-lg border-solid border-inherit border p-8 mb-5 ml-6 flex w-3/4'>
                             <div className='my-auto mr-8 border-solid border-inherit border p-4 rounded-sm h-28 w-28'>
                                 <img className='w-20 flex align-middle' src={company.logo} alt="Companies logo" />
                             </div>
