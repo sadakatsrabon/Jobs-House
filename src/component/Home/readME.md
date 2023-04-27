@@ -8,4 +8,4 @@
 - "Start applying" button will show you all job at a time.
 - primaryly you can show 4 job in the home page.
 - when you enterd a wrong url. It will show a error page.
-- 
+- 404 page will show if you tap the start applying pages any button.

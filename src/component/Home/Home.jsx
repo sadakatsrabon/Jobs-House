@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import  { useState } from 'react';
 import JobCart from '../JobCart/JobCart';
 import { useLoaderData } from 'react-router-dom';
-import { BeakerIcon } from '@heroicons/react/24/solid'
 
 const Home = () => {
 // console.log(props);

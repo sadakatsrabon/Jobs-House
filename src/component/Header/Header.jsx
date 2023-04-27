@@ -1,6 +1,6 @@
-import React from 'react';
+
 import { Link, NavLink } from 'react-router-dom';
-import { BeakerIcon, CurrencyDollarIcon } from '@heroicons/react/24/solid'
+import {  CurrencyDollarIcon } from '@heroicons/react/24/solid'
 
 
 const Header = () => {
